@@ -1,0 +1,292 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/Attack.sol": {
+      "lastModificationDate": 1677563798314,
+      "contentHash": "4610b4f9f4541c18caac23c635480406",
+      "sourceName": "contracts/Attack.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./EtherStore.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Attack"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/EtherStore.sol": {
+      "lastModificationDate": 1677563746008,
+      "contentHash": "fb1f7d3edf3cb20c3d8170bfbf0e3e9e",
+      "sourceName": "contracts/EtherStore.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "EtherStore"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/Vault.sol": {
+      "lastModificationDate": 1677563742480,
+      "contentHash": "49d3abf35879a77eba53a977ce6384a5",
+      "sourceName": "contracts/Vault.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Vault"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/assembly/Assembly.sol": {
+      "lastModificationDate": 1677563703008,
+      "contentHash": "f74bb5695131b54f105e37231330b8c7",
+      "sourceName": "contracts/assembly/Assembly.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Assembly"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/MyToken.sol": {
+      "lastModificationDate": 1677600072919,
+      "contentHash": "cb87878c47242a6d595275afaf18df61",
+      "sourceName": "contracts/MyToken.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MyToken"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "lastModificationDate": 1677566324687,
+      "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
+      "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IERC20"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/interfaces/IMyToken.sol": {
+      "lastModificationDate": 1677593418505,
+      "contentHash": "0ee89589caf0ed6a196ff79cbd4605df",
+      "sourceName": "contracts/interfaces/IMyToken.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/IERC20.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IMyToken"
+      ]
+    },
+    "/Users/fangzhenfutao/web3/crypto-solidity-tutorial/contracts/UnsafeDelegatecall.sol": {
+      "lastModificationDate": 1677596977083,
+      "contentHash": "7f5e7aa1f5b642809031c74f63334359",
+      "sourceName": "contracts/UnsafeDelegatecall.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Lib",
+        "UnsafeDeletegatecall"
+      ]
+    }
+  }
+}

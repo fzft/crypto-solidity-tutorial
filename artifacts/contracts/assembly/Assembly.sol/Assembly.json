@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Assembly",
+  "sourceName": "contracts/assembly/Assembly.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122035887b66d3c615ee4b1c83ed87da5ad3475548c6601cbe9f5de3a4275760898e64736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122035887b66d3c615ee4b1c83ed87da5ad3475548c6601cbe9f5de3a4275760898e64736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
